@@ -141,6 +141,15 @@ Built **Spring Boot microservices** — discovery clients, API gateways, central
   <img src="https://img.shields.io/badge/📈%20View%20my%20full%20CP%20journey%20on%20Codolio-2c5364?style=for-the-badge"/>
 </a>
 
+<br/><br/>
+
+<a href="https://leetcode.com/u/sarkarsamrat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.naukri.com/code360/profile/8a2e7aa0-d8ac-440f-8124-f1f163197cc2"><img src="https://img.shields.io/badge/Code360-2E5AAC?style=for-the-badge&logo=naukri&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/profile/sarkarsamrahcs3"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/wise_light_90"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/sarkarsamrat16112004"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/sarkarsamrat1611"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
 </div>
 
 ---
