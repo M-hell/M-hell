@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrat%20Sarkar&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20Microservices%20%7C%20Cloud%20%7C%20Fintech&descAlignY=75&descSize=20" width="100%"/>
 
 <a href="https://github.com/M-hell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=SWE+Intern+%40+Affinsys+AI+%7C+Fintech+%26+Open+Banking;Spring+Boot+%7C+Django+%7C+Node.js+Microservices;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS;850%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Intern+%40+Affinsys+AI+%7C+Fintech+%26+Open+Banking;Spring+Boot+%7C+Django+%7C+Node.js+Microservices;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS;850%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
