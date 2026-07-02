@@ -17,8 +17,6 @@
 <a href="https://www.linkedin.com/in/samrat-sarkar-00534b283/"><img src="https://img.shields.io/badge/LinkedIn-Samrat%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codolio.com/profile/chickenBiriyani"><img src="https://img.shields.io/badge/Codolio-chickenBiriyani-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=M-hell&style=for-the-badge&color=2c5364" alt="Profile Views"/>
-
 </div>
 
 ---
