@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrat%20Sarkar&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20Microservices%20%7C%20Cloud%20%7C%20Fintech&descAlignY=75&descSize=20" width="100%"/>
 
 <a href="https://github.com/M-hell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Intern+%40+Affinsys+AI+%7C+Fintech+%26+Open+Banking;Spring+Boot+%7C+Django+%7C+Node.js+Microservices;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS;850%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=SWE+Intern+%40+Affinsys+AI+%7C+Fintech+%26+Open+Banking;Spring+Boot+%7C+Django+%7C+Node.js+Microservices;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS;850%2B+DSA+Problems+Solved+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -142,7 +142,7 @@ Built **Spring Boot microservices** — discovery clients, API gateways, central
 <br/><br/>
 
 <a href="https://leetcode.com/u/sarkarsamrat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.naukri.com/code360/profile/8a2e7aa0-d8ac-440f-8124-f1f163197cc2"><img src="https://img.shields.io/badge/Code360-2E5AAC?style=for-the-badge&logo=naukri&logoColor=white"/></a>
+<a href="https://www.naukri.com/code360/profile/8a2e7aa0-d8ac-440f-8124-f1f163197cc2"><img src="https://img.shields.io/badge/Code360-2E5AAC?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/profile/sarkarsamrahcs3"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/wise_light_90"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/sarkarsamrat16112004"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
